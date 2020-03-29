@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Esm Famil</string>
+    <string name="loginButton">بیا تو</string>
+    <string name="chooseYourName">اسمت رو انتخاب کن</string>
+    <string name="createNewGame">بازی جدید بساز</string>
+    <string name="game">بازی</string>
+    <string name="players">بازیکن ها</string>
+    <string name="chat">چت</string>
+    <string name="stop">استپ</string>
+    <string name="gameItem">آیتم بازی مثه اسم، فامیل یا شهر</string>
+    <string name="addGameItem">افزودن</string>
+    <string name="delete">پاک کن</string>
+    <string name="addPlayers">اضافه کردن بازیکن ها</string>
+</resources>
